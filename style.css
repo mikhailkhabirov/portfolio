@@ -87,6 +87,10 @@ body {
   text-align: center;
 }
 
+.border-photo{
+  border-radius: 30%;
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
@@ -99,6 +103,9 @@ body {
   margin: 0 0 32px;
 }
 
+.skills {
+  margin: 0 0 120px;
+}
 .skills-list {
   margin: 0;
   padding: 0;
